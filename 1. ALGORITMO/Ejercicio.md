@@ -1,11 +1,15 @@
-### REALIZA UN ALGORITMO SOBRE ALGUNA ACTIVIDAD EN TU VIDA COTIDIANA.
+inicio
+cama,sabanas,almohada,cobijas
+levantarse de la cama
+quitar las sabanas, almohadas y cobijas    
+sacudir la cama
+poner las sabanas, almohadas y cobijas 
+fin
 
-    TU RESPUETA AQUI
-
-
-
-### DESARROLLA UN ALGORITMO QUE CALCULE LA EDAD DE UNA PERSONA CON BASE A LA OBTENCION DE SU FECHA DE NACIMIENTO.
-
+inicio
+declarar(añoactual,edad,añodenacimiento)
+edad(añoactual-añodenacimiento)
+mostrar(edad)
     TU RESPUESTA AQUI
 
 
